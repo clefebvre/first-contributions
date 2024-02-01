@@ -2,6 +2,7 @@
 <!-- prettier-ignore-start -->
 - [dnkt182] (https://github.com/dnkTin)
 - [Vidhant007](https://github.com/Vidhant007)
+- [Adrian Morar](https://github.com/Adimovx)
 - [Paxton Schmidt](https://github.com/PaxtonSchmidt)
 - [Syarif Hidayatulloh](https://github.com/elSyarif)
 - [Qais Aziz] (https://github.com/qais-aziz)
