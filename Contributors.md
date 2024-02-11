@@ -75,6 +75,7 @@ HarryN
 - [Varun S V](https://github.com/Varun-SV/)
 - [Emmanuel Okoh](https://github.com/otizgit)
 - [Varun Ratnani](https://github.com/varun1002)
+- [Imtiaz Mahmud](https://github.com/imtiazifaz01)
 - [Crimsonshade](https://github.com/crimsonshade)
 - [narsingojuhemanth](https://github.com/narsingojuhemanth)
 - [Nicholas Ali](https://github.com/NicholasAli1)
